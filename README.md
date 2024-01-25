@@ -37,7 +37,7 @@ Y alguna más...
 
 </br>
 
-[![Email](https://img.shields.io/badge/regf.12@gmai.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:regf.12@gmai.com)
+[![Email](https://img.shields.io/badge/regf.12@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:regf.12@gmail.com)
 
 </br>
 
