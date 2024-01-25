@@ -27,15 +27,18 @@ Y alguna más...
 ## Encuéntrame en:
 
 </br>
-[![Instagram](https://img.shields.io/badge/Instagram-@regf_12-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/regf_12)
-[![TikTok](https://img.shields.io/badge/TikTok-@regf1212-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@regf1212)
-</br>
-[![Link](https://img.shields.io/badge/Link_Site-rafael-emilio-guzman-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://regf12.github.io/rafael-emilio-guzman)
+
+[![Link](https://img.shields.io/badge/Link_Site-rafael_emilio_guzman-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://regf12.github.io/rafael-emilio-guzman)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-regf12-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/regf12)
+
 
 ## Contacto y apoyo:
 
 </br>
+
 [![Email](https://img.shields.io/badge/regf.12@gmai.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:regf.12@gmai.com)
+
 </br>
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/regf12)
