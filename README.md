@@ -1,7 +1,7 @@
 # ![https://regf12.github.io/rafael-emilio-guzman](https://avatars.githubusercontent.com/u/23663280) Hola, mi nombre es Rafael Emilio Guzman 👋
 ### Freelance full-stack Web & Android engineer
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxI5ohbMIuZcZzDv1CrxMQ?style=social)](https://youtube.com/rafael-emilio-guzman?sub_confirmation=1)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxI5ohbMIuZcZzDv1CrxMQ?style=social)](https://www.youtube.com/@rafael-emilio-guzman?sub_confirmation=1)
 ![GitHub Followers](https://img.shields.io/github/followers/regf12?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/regf12?style=social)
 
