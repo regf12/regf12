@@ -1,4 +1,4 @@
-# ![https://regf12.github.io/rafael-emilio-guzman](https://res.cloudinary.com/regf/image/upload/v1706218956/personal/regf_avatar_1.ico) Hola, mi nombre es Rafael Emilio Guzman 👋
+# ![https://regf12.github.io/rafael-emilio-guzman](https://res.cloudinary.com/regf/image/upload/v1706219364/personal/image1.png) Hola, mi nombre es Rafael Emilio Guzman 👋
 ### Freelance full-stack Web & Android engineer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxI5ohbMIuZcZzDv1CrxMQ?style=social)](https://www.youtube.com/@rafael-emilio-guzman?sub_confirmation=1)
