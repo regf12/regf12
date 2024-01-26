@@ -1,5 +1,5 @@
 # ![https://regf12.github.io/rafael-emilio-guzman](https://res.cloudinary.com/regf/image/upload/v1706219364/personal/image1.png) Hola, mi nombre es Rafael Emilio Guzman 👋
-### Freelance full-stack Web & Android engineer
+### Freelance full-stack Web & Android developer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxI5ohbMIuZcZzDv1CrxMQ?style=social)](https://www.youtube.com/@rafael-emilio-guzman?sub_confirmation=1)
 ![GitHub Followers](https://img.shields.io/github/followers/regf12?style=social)
