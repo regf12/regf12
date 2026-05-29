@@ -1,20 +1,29 @@
-# ![Profile Image](https://res.cloudinary.com/regf/image/upload/v1706219364/personal/image1.png) Hello, my name is Rafael Emilio Guzman. 👋
+# ![Profile Image](https://res.cloudinary.com/regf/image/upload/v1706219364/personal/image1.png) Hello, my name is Rafael Emilio Guzman 👋
 
-### Degree in Computer Science | Full-stack Web & Android Developer
+### Forward Deployment AI Engineer | Full-Stack Developer
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCdxI5ohbMIuZcZzDv1CrxMQ?style=social)](https://www.youtube.com/@rafael-emilio-guzman?sub_confirmation=1)
 ![GitHub Followers](https://img.shields.io/github/followers/regf12?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/regf12?style=social)
 
-Software developer with more than 6 years of experience in developing web and mobile applications. With experience in e-commerce, service management and other industries. Passionate about creating quality, wearable products.
+Software Engineer and Applied AI Engineer with more than 8 years of experience developing web, mobile, and AI-integrated architectures. Specialist in building autonomous AI agents, RAG (Retrieval-Augmented Generation) workflows, and process automation utilizing LLMs.
 
-I am always looking for new opportunities to learn and grow; I love working on challenging projects. If you are looking for a talented and committed developer, do not hesitate to contact me.
+Passionate about the convergence of classic Full-Stack development and AI engineering. Architect of agile, production-ready cloud solutions (AWS/Docker/Vercel) focused on rapid delivery of technical value.
 
 ---
 
-## 🛠 Habilidades
+## 🛠 Skills
 
-### Lenguajes
+### Applied AI & Agents
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75FF?style=for-the-badge&logo=google-gemini&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1A1A1A?style=for-the-badge&logo=pinecone&logoColor=white)
+
+### Languages
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -24,6 +33,7 @@ I am always looking for new opportunities to learn and grow; I love working on c
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frontend & Mobile
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -38,6 +48,7 @@ I am always looking for new opportunities to learn and grow; I love working on c
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 
 ### Backend & Database
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -46,6 +57,7 @@ I am always looking for new opportunities to learn and grow; I love working on c
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Tools & DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,16 +67,17 @@ I am always looking for new opportunities to learn and grow; I love working on c
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Soft Skills
-* Teamwork
-* Agile development and Scrum
-* Good communication, responsibility and commitment
-* Creative thinking and positivity
-* Time management and adaptability
-* Perseverance and patience
+
+- Teamwork
+- Agile development and Scrum
+- Good communication, responsibility and commitment
+- Creative thinking and positivity
+- Time management and adaptability
+- Perseverance and patience
 
 ---
 
-## 📫 Encuéntrame en:
+## 📫 Find Me At:
 
 [![LinkTree](https://img.shields.io/badge/Link_Site-rafael_emilio_guzman-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://regf12.github.io/rafael-emilio-guzman)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-regf12-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/regf12)
@@ -74,4 +87,4 @@ I am always looking for new opportunities to learn and grow; I love working on c
 
 <br>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/regf12)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/regf12)
